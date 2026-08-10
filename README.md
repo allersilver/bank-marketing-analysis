@@ -86,18 +86,12 @@
 ## 파일 구조
 
 bank-marketing-analysis/  
-
-├── 01_data_cleaning.ipynb     # 데이터 전처리 및 이상치 제거  
-
-├── 02_analysis.ipynb          # 가입률 분석 및 시각화  
-
-├── 03_insight_action.ipynb    # 핵심 인사이트 및 타겟 마케팅 전략  
-
-├── Bank_Target_Marketing.csv  # 원본 데이터  
-
-├── new_customers_cleaned.csv  # 전처리 완료 데이터 (신규 고객)  
-
-└── prev_customers_cleaned.csv # 전처리 완료 데이터 (기존 고객)  
+01_data_cleaning.ipynb     - 데이터 전처리 및 이상치 제거
+02_analysis.ipynb          - 가입률 분석 및 시각화
+03_insight_action.ipynb    - 핵심 인사이트 및 타겟 마케팅 전략
+Bank_Target_Marketing.csv  - 원본 데이터
+new_customers_cleaned.csv  - 전처리 완료 데이터 (신규 고객)
+prev_customers_cleaned.csv - 전처리 완료 데이터 (기존 고객)
 
 
 ---
